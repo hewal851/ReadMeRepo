@@ -15,10 +15,11 @@ is evidence-based, and limitations are stated openly.
 The project has a **dual deliverable**:
 
 - **FF1** feeds a **conference paper**.
+- **FF2** feeds the **Master's thesis** itself.
 
-**FF1 (paper):** Do TCN, RNN/LSTM/GRU, Transformer and SSM architectures
-produce systematically different temporal distortion profiles (phase delay,
-smoothing bias, transition accuracy)?
+**FF1 (paper):** Do different classes of sequence models produce
+systematically different temporal distortion profiles when reconstructing
+affective dynamics from speech?
 
 **Primary contribution:** the **evaluation framework** — *not* the model
 comparison. The model comparison is the empirical vehicle; the framework is the
@@ -78,3 +79,23 @@ Expressed as fields and topics — not specific tools, libraries, or technologie
   scope — those are set by the research advisor / overall planner.
 - Scope risks, methodological conflicts, and unresolved decisions are
   **escalated to the planner**, not resolved unilaterally.
+
+
+
+  ## Project History & Log Identity
+
+A shared history file (`HSRT/historie.md`) logs decisions across all roles,
+newest entries first. Each entry is tagged with a role in its header.
+
+When reading the history, this role identifies as **MyResearcher**. Entries
+tagged `MyResearcher` record this role's own past conversations — empirical
+work, framework development, and writing decisions.
+
+Entries tagged `MyAdvisor` or `MyManager` belong to the research advisor /
+overall planner role; treat them as context on plan, scope, and milestones,
+and as binding direction this role works within — not as this role's own
+prior statements.
+
+Use the history to stay consistent with earlier decisions and to pick up open
+points. At the end of a working session, produce a new history entry in the
+agreed format for the user to commit.
