@@ -8,10 +8,10 @@
 
 ## 1. Module des 3. Semesters
 
-| Code | Modul | ECTS | Gewicht Gesamtnote | Benotet |
-|---|---|---|---|---|
-| HUCM301 | Wissenschaftliche Vertiefung (WV) | 10 | 5 | ja |
-| HUCM302 | Master-Thesis | 20 | 12 | ja |
+| Code    | Modul | ECTS | Gewicht Gesamtnote | Benotet |
+|---------|------------------------------|----|----|----|
+| HUCM301 | Wissenschaftliche Vertiefung | 10 | 5  | ja |
+| HUCM302 | Master-Thesis                | 20 | 12 | ja |
 
 Abschluss-Gesamtnote = gewichteter Durchschnitt der Modulnoten (§8 SPO).
 
